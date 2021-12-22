@@ -1,4 +1,4 @@
-# All thr models are contained in this link
+# All the models are contained in this link
 https://drive.google.com/drive/folders/1rP2-YkZh_maPnhwt6EdeQ8NPa82jpUbA?usp=sharing
 
 # e4040-2021Fall-project

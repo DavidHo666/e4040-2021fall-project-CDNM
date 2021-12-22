@@ -65,6 +65,7 @@ Create a directory/file tree
 │   └── model6.hdf5
 ├── Network_1 final.ipynb
 ├── README.md
+├── E4040.2021Fall.CDNM.zw2781.dh3027.zy2447.pdf
 ├── TinyImageNet_Network_2.ipynb
 └── history
     ├── network2_model1.csv

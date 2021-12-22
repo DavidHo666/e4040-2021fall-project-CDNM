@@ -1,3 +1,6 @@
+# All thr models are contained in this link
+https://drive.google.com/drive/folders/1rP2-YkZh_maPnhwt6EdeQ8NPa82jpUbA?usp=sharing
+
 # e4040-2021Fall-project
 Seed repo for projects for e4040-2021Fall-project
   - Distributed as Github Repo and shared via Github Classroom

@@ -35,7 +35,7 @@ To be populated by students, as shown in previous assignments.
 Create a directory/file tree
 
 ```
-.
+./
 ├── Network1_history
 │   ├── network1_model1.csv
 │   ├── network1_model10.csv

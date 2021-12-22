@@ -33,7 +33,8 @@ INSTRUCTIONS for naming the students' solution repository for assignments with s
 To be populated by students, as shown in previous assignments.
 
 Create a directory/file tree
-...
+
+```
 .
 ├── Network1_history
 │   ├── network1_model1.csv
@@ -74,4 +75,4 @@ Create a directory/file tree
     └── network2_model6.csv
 
 4 directories, 33 files
-...
+```

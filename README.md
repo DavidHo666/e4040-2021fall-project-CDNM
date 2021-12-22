@@ -32,3 +32,43 @@ INSTRUCTIONS for naming the students' solution repository for assignments with s
 # Organization of this directory
 To be populated by students, as shown in previous assignments.
 Create a directory/file tree
+./
+├── Network1_history
+│   ├── network1_model1.csv
+│   ├── network1_model10.csv
+│   ├── network1_model11.csv
+│   ├── network1_model12.csv
+│   ├── network1_model13.csv
+│   ├── network1_model14.csv
+│   ├── network1_model15.csv
+│   ├── network1_model16.csv
+│   ├── network1_model17.csv
+│   ├── network1_model2.csv
+│   ├── network1_model3.csv
+│   ├── network1_model4.csv
+│   ├── network1_model5.csv
+│   ├── network1_model6.csv
+│   ├── network1_model7.csv
+│   ├── network1_model8.csv
+│   └── network1_model9.csv
+├── Network1_models
+│   └── Network1 best model download link.rtf
+├── Network2_model
+│   ├── model1.hdf5
+│   ├── model2.hdf5
+│   ├── model3.hdf5
+│   ├── model4.hdf5
+│   ├── model5.hdf5
+│   └── model6.hdf5
+├── Network_1 final.ipynb
+├── README.md
+├── TinyImageNet_Network_2.ipynb
+└── history
+    ├── network2_model1.csv
+    ├── network2_model2.csv
+    ├── network2_model3.csv
+    ├── network2_model4.csv
+    ├── network2_model5.csv
+    └── network2_model6.csv
+
+4 directories, 33 files

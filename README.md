@@ -31,6 +31,7 @@ INSTRUCTIONS for naming the students' solution repository for assignments with s
 
 # Organization of this directory
 To be populated by students, as shown in previous assignments.
+
 Create a directory/file tree
 ./
 ├── Network1_history
